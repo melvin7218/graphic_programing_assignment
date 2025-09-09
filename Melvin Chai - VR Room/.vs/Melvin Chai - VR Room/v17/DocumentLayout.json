@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\FireExtinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FireExtinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\Extinguished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Extinguished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPASS_PullOnly1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExtinguisherPASS_PullOnly1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\PullPinByDistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PullPinByDistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\SafetyPinXr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SafetyPinXr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherOverlayHUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExtinguisherOverlayHUD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ShowHUDWhenHeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ShowHUDWhenHeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPressureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExtinguisherPressureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtinguisherPASS_PullOnly1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPASS_PullOnly1.cs",
+              "RelativeDocumentMoniker": "Assets\\ExtinguisherPASS_PullOnly1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPASS_PullOnly1.cs",
+              "RelativeToolTip": "Assets\\ExtinguisherPASS_PullOnly1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:35:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PullPinByDistance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\PullPinByDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\PullPinByDistance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\PullPinByDistance.cs",
+              "RelativeToolTip": "Assets\\PullPinByDistance.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAK0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:33:47.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extinguished.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\Extinguished.cs",
+              "RelativeDocumentMoniker": "Assets\\Extinguished.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\Extinguished.cs",
+              "RelativeToolTip": "Assets\\Extinguished.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:59:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SafetyPinXr.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\SafetyPinXr.cs",
+              "RelativeDocumentMoniker": "Assets\\SafetyPinXr.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\SafetyPinXr.cs",
+              "RelativeToolTip": "Assets\\SafetyPinXr.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:46:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FireExtinguisher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\FireExtinguisher.cs",
+              "RelativeDocumentMoniker": "Assets\\FireExtinguisher.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\FireExtinguisher.cs",
+              "RelativeToolTip": "Assets\\FireExtinguisher.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:55:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtinguisherOverlayHUD.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherOverlayHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\ExtinguisherOverlayHUD.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherOverlayHUD.cs",
+              "RelativeToolTip": "Assets\\ExtinguisherOverlayHUD.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:41:21.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowHUDWhenHeld.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ShowHUDWhenHeld.cs",
+              "RelativeDocumentMoniker": "Assets\\ShowHUDWhenHeld.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ShowHUDWhenHeld.cs",
+              "RelativeToolTip": "Assets\\ShowHUDWhenHeld.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:23:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtinguisherPressureUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPressureUI.cs",
+              "RelativeDocumentMoniker": "Assets\\ExtinguisherPressureUI.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Melvin Chai - VR Room\\Assets\\ExtinguisherPressureUI.cs",
+              "RelativeToolTip": "Assets\\ExtinguisherPressureUI.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:56:21.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
